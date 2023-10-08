@@ -6,6 +6,10 @@
 
 * Go crazy lmao
 
-# How to build
+# How to build (asar file)
 
-* Coming soon
+* Download [Node.js](https://nodejs.org/en)
+
+* npm install asar
+
+* asar pack "folder name here" "file name here".asar (If you're planning to replace the original ones name the Bootstrapper file: app.asar and the Desktop Core file to: core.asar)
